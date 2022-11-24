@@ -44,9 +44,6 @@ class BizCard extends StatelessWidget {
         children: const <Widget>[
           // Row(
           //   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-          //   children: const <Widget>[
-          //     Icon(Icons.),
-          //     Text("My Biz Card")
           //   ],
           // )
         ],
